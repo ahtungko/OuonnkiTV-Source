@@ -14,6 +14,13 @@
     "isEnabled": true
   },
   {
+    "id": "mtzy-me",
+    "name": "茅台资源",
+    "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "detailUrl": "https://mtzy.me",
+    "isEnabled": true
+  },
+  {
     "id": "ikunzy-com",
     "name": "iKun资源",
     "url": "https://ikunzyapi.com/api.php/provide/vod",
@@ -137,6 +144,13 @@
     "name": "老色逼",
     "url": "https://apilsbzy1.com/api.php/provide/vod",
     "detailUrl": "https://apilsbzy1.com",
+    "isEnabled": true
+  },
+  {
+    "id": "www-yytv4-cc",
+    "name": "优优资源",
+    "url": "https://www.yytv4.cc/api.php/provide/vod",
+    "detailUrl": "https://www.yytv4.cc",
     "isEnabled": true
   },
   {
