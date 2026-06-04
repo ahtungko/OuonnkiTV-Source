@@ -14,13 +14,6 @@
     "isEnabled": true
   },
   {
-    "id": "api-guangsuapi-com",
-    "name": "光速资源",
-    "url": "https://api.guangsuapi.com/api.php/provide/vod",
-    "detailUrl": "https://api.guangsuapi.com",
-    "isEnabled": true
-  },
-  {
     "id": "www-subozy-com",
     "name": "速播资源",
     "url": "https://subocaiji.com/api.php/provide/vod",
@@ -28,31 +21,17 @@
     "isEnabled": true
   },
   {
+    "id": "api-guangsuapi-com",
+    "name": "光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.guangsuapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "www-huyaapi-com",
     "name": "虎牙资源",
     "url": "https://www.huyaapi.com/api.php/provide/vod",
     "detailUrl": "https://www.huyaapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "360zy-com",
-    "name": "360 资源",
-    "url": "https://360zyzz.com/api.php/provide/vod",
-    "detailUrl": "https://360zy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "dbzy-tv",
-    "name": "豆瓣资源",
-    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "detailUrl": "https://dbzy.tv",
-    "isEnabled": true
-  },
-  {
-    "id": "jinyingzy-com",
-    "name": "金鹰点播",
-    "url": "https://jinyingzy.com/api.php/provide/vod",
-    "detailUrl": "https://jinyingzy.com",
     "isEnabled": true
   },
   {
@@ -70,6 +49,13 @@
     "isEnabled": true
   },
   {
+    "id": "dbzy-tv",
+    "name": "豆瓣资源",
+    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "detailUrl": "https://dbzy.tv",
+    "isEnabled": true
+  },
+  {
     "id": "www-moduzy-net",
     "name": "魔都资源",
     "url": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -81,6 +67,13 @@
     "name": "猫眼资源",
     "url": "https://api.maoyanapi.top/api.php/provide/vod",
     "detailUrl": "https://www.maoyanzy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "360zy-com",
+    "name": "360 资源",
+    "url": "https://360zyzz.com/api.php/provide/vod",
+    "detailUrl": "https://360zy.com",
     "isEnabled": true
   },
   {
