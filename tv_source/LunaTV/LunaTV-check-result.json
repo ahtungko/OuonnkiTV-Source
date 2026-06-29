@@ -1,5 +1,5 @@
 {
-  "date": "2026/06/29 06:55",
+  "date": "2026/06/30 06:47",
   "playSpeedTestEnabled": true,
   "keyword": "斗罗大陆",
   "adultKeyword": "三上悠",
@@ -8,9 +8,9 @@
     "search": true,
     "play": false
   },
-  "duration": "27.9s",
+  "duration": "32.6s",
   "stats": {
-    "total": 73,
+    "total": 72,
     "searchOk": 0,
     "playOk": 0
   },
@@ -306,7 +306,7 @@
     {
       "id": "jinyingzy-com",
       "name": "金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com",
       "isAdult": false,
       "status": "search_failed",
@@ -724,22 +724,6 @@
       "name": "老色逼",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com",
-      "isAdult": true,
-      "status": "search_failed",
-      "search": {
-        "status": "failed",
-        "duration": null
-      },
-      "play": {
-        "tests": [],
-        "avgSpeed": null
-      }
-    },
-    {
-      "id": "www-yytv4-cc",
-      "name": "优优资源",
-      "api": "https://www.yytv4.cc/api.php/provide/vod",
-      "detail": "https://www.yytv4.cc",
       "isAdult": true,
       "status": "search_failed",
       "search": {
